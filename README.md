@@ -11,3 +11,4 @@ Use the "Import/Export settings" function, which can be found in the software af
 The file location will be in %AppData%\Roaming\3Dconnexion\3DxWare\Cfg\Cities2-KMJ.xml
 
 If you would like to edit the Cities2-KMJ.xml use a editor like Notepad++. The keyboard codes here: http://www.freebsddiary.org/APC/usb_hid_usages.php
+https://wiki.edgarbv.com/index.php/SpaceMouse_3d_3dConnexion
