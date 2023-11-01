@@ -3,9 +3,7 @@
 This guide is for the 3D Connexion SpaceMouse to be used in Cities Skylines 2.
 
 I'm assuming you are using the standard key mappings for controlling the camera.
-
-I'm assuming you are using the standard key mappings for controlling the camera.
-					
+				
 ![image](https://github.com/AlienTarot/CS2/assets/118689609/d8c26247-2c2b-4714-bdb7-5353ce81c8c7)
 
 I've also assigned the left [Space] and right [ESC] buttons to but I'm sure there's something better you can figure out to do with them.
