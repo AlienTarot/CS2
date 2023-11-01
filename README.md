@@ -1,6 +1,7 @@
 # CS2s 
 
-This guide is for the 3Dconnexion SpaceMouse® to control the camera in Cities: Skylines 2 (Windows only)
+This guide is for the 3Dconnexion SpaceMouse® to control the camera in Cities: Skylines 2 (Windows only) 
+
 I'm assuming you are using the standard key mappings for controlling the camera.
 				
 ![image](https://github.com/AlienTarot/CS2/assets/118689609/d24821da-7da4-4dee-a628-fd8dbdcf0741)
